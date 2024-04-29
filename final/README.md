@@ -1,7 +1,7 @@
-# title here 
+# TonysREADME 
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
-project disc here
+A readme file written through terminal
 ## Deployed Application URL
 undefined
 ## Screenshot
@@ -18,10 +18,10 @@ undefined
 ## Languages & Dependencies
 undefined
 ## How to Use This Application:
-purpose goes here
+to take in user input through terminal and launch a README.md
 ## Contributors
-no
+none
 ## Testing
 none
 ## Questions
-Please send your questions [here](mailto:email is here or for more github information see  [here](username:userNAme)
+Please send your questions [here](mailto:adhockman7@gmail.com) or for more github information see  [here](username:AntonioHockman)
